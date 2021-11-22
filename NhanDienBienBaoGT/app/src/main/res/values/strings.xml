@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NhanDienBienBaoGT</string>
+    <string name="Label">Nhận diện biển báo giao thông</string>
+    <string name="select">select</string>
+    <string name="predict">predict</string>
+    <string name="output">"Nhấn select để chọn biển báo và nhấn predict để dự đoán "</string>
+    <string name="predic">PREDICT</string>
+    <string name="close">CLOSE</string>
+    <string name="label_output">Biển báo</string>
+    <string name="takePhoto">photo</string>
+    <string name="Live">live</string>
+</resources>

@@ -1,0 +1,49 @@
+bến xe buýt
+các xe chỉ được đi thẳng và rẽ phải
+các xe chỉ dược đi thẳng và rẽ trái
+các xe chỉ được rẽ phải
+các xe chỉ được rẽ trái
+cấm bóp còi
+cấm đi ngược chiều
+cấm đỗ xe
+cấm dừng và đỗ xe
+cấm moto
+cấm người đi bộ
+cấm ô tô
+cấm quay đầu
+cấm rẽ phải
+cấm rẽ trái
+cấm vượt
+cấm xe đẹp
+cấm xe gắn máy
+cấm xe tải
+chỗ quay xe
+chỗ ngoặt nguy hiểm
+chỗ ngoặt nguy hiểm liên tiếp
+công trường
+dành cho người tàn tật
+đi chậm
+dừng lại
+đường cấm
+đường cao tốc
+đường dành cho người đi bộ
+đường dành cho ô tô
+đường dành cho ô tô và moto
+đường dành cho xe thô sơ
+đường đi bộ
+đường hai chiều
+đường một chiều
+đường trơn
+giao nhau theo vòng xuyến
+giao nhau với đường không ưu tiên
+giao nhau với đường ưu tiên
+hết đường cao tốc
+hướng đi phải phải theo
+hướng đi thẳng phải theo
+hướng đi trái phải theo
+khu vực đông trẻ em qua lại
+người đi bộ cắt ngang
+nơi đỗ xe
+nơi giao nhau chạy theo vòng xuyến
+trạm xăng
+tuyến dường cầu vượt cắt qua
